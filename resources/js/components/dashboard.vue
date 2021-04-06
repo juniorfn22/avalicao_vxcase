@@ -18,10 +18,10 @@
     </div>
 </template>
 <script>
-import listSales from './partials/listSales'
+//import listSales from './partials/listSales'
 export default {
     components: {
-        listSales,
+        // listSales,
     }
 }
 </script>
